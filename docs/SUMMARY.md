@@ -1,15 +1,16 @@
-# Summary
+# Table of contents
 
-## Use headings to create page groups like this one
+* [README](README.md)
 
-* [First page’s title](page1/README.md)
-    * [Some child page](page1/page1-1.md)
-    * [Some other child page](part1/page1-2.md)
+## Courses
 
-* [Second page’s title](page2/README.md)
-    * [Some child page](page2/page2-1.md)
-    * [Some other child page](part2/page2-2.md)
+* [LinuxHandBook](courses/linuxhandbook/README.md)
+  * [Chapter 1](courses/linuxhandbook/chapter-1.md)
+  * [Chapter 2](courses/linuxhandbook/chapter-2.md)
+* [Second page’s title](courses/second-pages-title/README.md)
+  * [Some child page](courses/second-pages-title/some-child-page.md)
+  * [Some other child page](courses/second-pages-title/some-other-child-page.md)
 
-## A second-page group
+## Projects
 
-* [Another page](another-page.md)
+* [Another page](projects/another-page.md)

@@ -1,1 +1,3 @@
-# School Docs
+# README
+
+## School Docs
