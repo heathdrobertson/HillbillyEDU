@@ -13,4 +13,4 @@
 
 ## Projects
 
-* [Another page](projects/another-page.md)
+* [Bash Cheat Sheet](projects/bash-cheat-sheet.md)
