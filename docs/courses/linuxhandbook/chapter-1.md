@@ -15,24 +15,32 @@ So, you give Bash instructions by typing them into the Terminal, Bash interpenet
 
 
 
-### Bash Commands&#x20;
+## Lesson Bash Commands&#x20;
 
-#### pwd
+### pwd
 
-Path to Working Directory&#x20;
+[Path to working directory ](../../bash/cheat-sheet.md#navigating-directories)
 
-#### ls&#x20;
+### **ls**
 
-#### cd&#x20;
+[List directory contents](../../bash/cheat-sheet.md#navigating-directories)
 
-#### |&#x20;
+### cd&#x20;
 
-less | the pipe sends the output from one to another .&#x20;
+[Change the shell working directory.](../../bash/cheat-sheet.md#navigating-directories)
 
-Add the --help or -h flag to any command to output the help page.&#x20;
+### Pipe `|`&#x20;
 
+A pipe fundamental feature that allows the output of one command to be used as the input for another command&#x20;
 
+### less&#x20;
 
-#### Man Pages (Manual Pages)
+Display the contents of a file in a terminal
 
-man pwd
+### more
+
+Display the contents of a file in a terminal
+
+### man
+
+Man Pages (Manual Pages)

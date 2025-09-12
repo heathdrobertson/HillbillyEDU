@@ -14,5 +14,6 @@
 ## Bash
 
 * [Commands](bash/cheat-sheet.md)
-* [Scripting](bash/page-1.md)
+* [Scripting](bash/page-1/README.md)
+  * [Page 1](bash/page-1/page-1.md)
 * [Profile](bash/vocabulary.md)
