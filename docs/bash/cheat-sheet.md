@@ -2,22 +2,20 @@
 description: A short list of Bash commands.
 ---
 
-# Bash Cheat Sheet
+# Cheat Sheet
 
-## Bash Cheat Sheet
-
-A cheat sheet for bash commands.
-
-### Command History
+## Command History
 
 ```bash
+history
+
 !!            # Run the last command
 
 touch foo.sh
 chmod +x !$   # !$ is the last argument of the last command i.e. foo.sh
 ```
 
-### Navigating Directories
+## Navigating Directories
 
 ```bash
 pwd                       # Print current directory path
@@ -39,7 +37,7 @@ pushd foo                 # Go to foo sub-directory and add previous directory t
 popd                      # Go back to directory in stack saved by `pushd`
 ```
 
-### Creating Directories
+## Creating Directories
 
 ```bash
 mkdir foo                        # Create a directory
@@ -50,7 +48,7 @@ mkdir -p|--parents {foo,bar}/baz # Create multiple nested directories
 mktemp -d|--directory            # Create a temporary directory
 ```
 
-### Moving Directories
+## Moving Directories
 
 ```bash
 cp -R|--recursive foo bar                               # Copy directory
@@ -62,7 +60,7 @@ rsync -avz /foo username@hostname:/bar                  # Copy local directory t
 rsync -avz username@hostname:/foo /bar                  # Copy remote directory to local directory
 ```
 
-### Deleting Directories
+## Deleting Directories
 
 ```bash
 rmdir foo                        # Delete empty directory

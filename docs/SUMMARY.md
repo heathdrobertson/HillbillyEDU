@@ -13,4 +13,8 @@
 
 ## Projects
 
-* [Bash Cheat Sheet](projects/bash-cheat-sheet.md)
+## Bash
+
+* [Cheat Sheet](bash/cheat-sheet.md)
+* [Vocabulary](bash/vocabulary/README.md)
+  * [Page 1](bash/vocabulary/page-1.md)
