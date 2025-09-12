@@ -1,3 +1,3 @@
 # README
 
-## School Docs
+## Docs - Sixth Grade Computer Science

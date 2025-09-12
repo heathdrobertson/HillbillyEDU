@@ -11,10 +11,8 @@
   * [Some child page](courses/second-pages-title/some-child-page.md)
   * [Some other child page](courses/second-pages-title/some-other-child-page.md)
 
-## Projects
-
 ## Bash
 
-* [Cheat Sheet](bash/cheat-sheet.md)
-* [Vocabulary](bash/vocabulary/README.md)
-  * [Page 1](bash/vocabulary/page-1.md)
+* [Commands](bash/cheat-sheet.md)
+* [Scripting](bash/page-1.md)
+* [Profile](bash/vocabulary.md)
