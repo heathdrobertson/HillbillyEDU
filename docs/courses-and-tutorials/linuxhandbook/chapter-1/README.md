@@ -19,15 +19,15 @@ So, you give Bash instructions by typing them into the Terminal, Bash interpenet
 
 ### pwd
 
-[Path to working directory ](../../bash/cheat-sheet.md#navigating-directories)
+[Path to working directory ](../../../bash/cheat-sheet.md#navigating-directories)
 
 ### **ls**
 
-[List directory contents](../../bash/cheat-sheet.md#navigating-directories)
+[List directory contents](../../../bash/cheat-sheet.md#navigating-directories)
 
 ### cd&#x20;
 
-[Change the shell working directory.](../../bash/cheat-sheet.md#navigating-directories)
+[Change the shell working directory.](../../../bash/cheat-sheet.md#navigating-directories)
 
 ### Pipe `|`&#x20;
 
