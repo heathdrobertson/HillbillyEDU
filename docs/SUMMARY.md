@@ -13,6 +13,6 @@
 
 ## Bash
 
-* [Cheat Sheet](bash/cheat-sheet.md)
+* [Commands](bash/cheat-sheet.md)
 * [Scripting](bash/page-1.md)
 * [Profile](bash/vocabulary.md)

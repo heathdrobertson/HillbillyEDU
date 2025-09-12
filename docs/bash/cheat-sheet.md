@@ -1,8 +1,8 @@
 ---
-description: A short list of Bash commands.
+description: A Bash Cheat Sheet
 ---
 
-# Cheat Sheet
+# Commands
 
 ## Command History
 
