@@ -12,6 +12,10 @@
   * [Some child page](courses-and-tutorials/second-pages-title/some-child-page.md)
   * [Some other child page](courses-and-tutorials/second-pages-title/some-other-child-page.md)
 * [Bash Math](https://ryanstutorials.net/bash-scripting-tutorial/bash-arithmetic.php)
+* [Typing](courses-and-tutorials/typing/README.md)
+  * [Typing Game](https://www.edclub.com/sportal/program-3.game)
+* [Vim](courses-and-tutorials/vim/README.md)
+  * [Vim Adventures](https://vim-adventures.com/)
 
 ## Bash
 
