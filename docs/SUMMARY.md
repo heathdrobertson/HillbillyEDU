@@ -16,6 +16,10 @@
   * [Typing Game](https://www.edclub.com/sportal/program-3.game)
 * [Vim](courses-and-tutorials/vim/README.md)
   * [Vim Adventures](https://vim-adventures.com/)
+* [Canonical SysAdmin](courses-and-tutorials/canonical-sysadmin/README.md)
+  * [Canonical Academy](https://canonical.com/academy)
+  * [Study Guide](https://canonical.com/academy/self-study)
+  * [Exams](https://canonical.com/academy/exam-content)
 
 ## Bash
 
